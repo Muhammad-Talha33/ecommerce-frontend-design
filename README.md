@@ -15,17 +15,20 @@ A modern and responsive E-commerce website built using **Next.js** and **Tailwin
 
 2. Navigate to the project directory:
 
-    ```bash cd e-commerce-website
+    ```bash 
+    cd e-commerce-website
 
 
 3. Install the dependencies:
 
-    ```bash npm install
+    ```bash 
+    npm install
 
 
 4. Start the development server:
 
-    ```bash npm run dev
+    ```bash 
+    npm run dev
 
 
 5. Open http://localhost:3000 in your browser to view the website.
