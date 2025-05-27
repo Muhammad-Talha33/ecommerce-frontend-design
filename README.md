@@ -16,7 +16,7 @@ A modern and responsive E-commerce website built using **Next.js** and **Tailwin
 2. Navigate to the project directory:
 
     ```bash 
-    cd e-commerce-website
+    cd ecommerce-frontend-design
 
 
 3. Install the dependencies:
